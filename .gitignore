@@ -1,0 +1,5 @@
+.aws/
+terraform.tfstate*
+*.pem
+.env
+yosin_user_accessKeys*.csv
